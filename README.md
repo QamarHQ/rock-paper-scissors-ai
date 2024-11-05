@@ -125,4 +125,9 @@ Contributions are welcome! If you’d like to improve the game or add new featur
 4. **Push to the branch**:
    ```bash
    git push origin feature/AmazingFeature
+
 5. **open pull request**.
+
+   ### License
+
+This project is licensed under the MIT License.
