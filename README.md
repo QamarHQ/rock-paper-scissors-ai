@@ -130,4 +130,7 @@ Contributions are welcome! If you’d like to improve the game or add new featur
 
    ### License
 
-This project is licensed under the MIT License.
+### License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
